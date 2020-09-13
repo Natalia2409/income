@@ -1,0 +1,22 @@
+.income {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.income button {
+    width: 200px;
+    height: 200px;
+    font-size: 70px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.income .costs {
+    color: red;
+    border: 15px solid red;
+}
+.income .increase {
+    color: green;
+    border: 15px solid green;
+}

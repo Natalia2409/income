@@ -1,0 +1,29 @@
+.menu button img {
+    width: 50px;
+    height: 50px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+.menu button {
+    width: 150px;
+    height: 100px;
+    background-color: #fff;
+    border: none;
+}
+
+.balance {
+    width: 400px;
+    height: 50px;
+    font-size: 22px;
+    color: #fff;
+    padding-top: 13px;
+    background-color: red;
+    text-align: center;
+}

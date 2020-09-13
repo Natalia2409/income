@@ -1,0 +1,19 @@
+.wrapper {
+    position: relative;
+    PADDING-top: 15px;
+    width: 600px;
+    height: 500px; 
+    margin: 0 auto;
+    border-bottom: 1px solid #000;
+}
+
+button:focus {
+    border: 1px solid grey;
+}
+
+.date {
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    margin-bottom: 10px;
+}
